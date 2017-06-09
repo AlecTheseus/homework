@@ -1,0 +1,18 @@
+{
+  "data": {
+    "user": [
+      {
+        "userId": "userid01",
+        "password": "96e79218965eb72c92a549dd5a330112"
+      },
+      {
+        "userId": "userid02",
+        "password": "e3ceb5881a0a1fdaad01296d7554868d"
+      },
+      {
+        "userId": "userid03",
+        "password": "b7bc2a2f5bb6d521e64c8974c143e9a0"
+      }
+    ]
+  }
+}

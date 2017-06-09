@@ -1,0 +1,90 @@
+{
+  "myData": [
+    {
+      "TimeStamp": "Wed Jun 07 2017 17:50:30",
+      "LogMarker": "admin",
+      "Logger": "Kaiser",
+      "LogLevel": "DEBUG",
+      "CurrentThread": "Puella",
+      "LogMessage": "server"
+    },
+    {
+      "TimeStamp": "Wed Jun 07 2017 17:50:31",
+      "LogMarker": "admin",
+      "Logger": "Kaiser",
+      "LogLevel": "INFO",
+      "CurrentThread": "mea",
+      "LogMessage": "server"
+    },
+    {
+      "TimeStamp": "Wed Jun 07 2017 17:50:32",
+      "LogMarker": "admin",
+      "Logger": "Kaiser",
+      "LogLevel": "WARN",
+      "CurrentThread": "me",
+      "LogMessage": "server"
+    },
+    {
+      "TimeStamp": "Wed Jun 08 2017 17:50:33",
+      "LogMarker": "admin",
+      "Logger": "Kaiser",
+      "LogLevel": "ERROR",
+      "CurrentThread": "non",
+      "LogMessage": "server"
+    },
+    {
+      "TimeStamp": "Wed Jun 08 2017 17:50:36",
+      "LogMarker": "admin",
+      "Logger": "Kaiser",
+      "LogLevel": "DEBUG",
+      "CurrentThread": "non",
+      "LogMessage": "server"
+    },
+    {
+      "TimeStamp": "Wed Jun 09 2017 17:50:34",
+      "LogMarker": "admin",
+      "Logger": "Kaiser",
+      "LogLevel": "FATAL",
+      "CurrentThread": "amat",
+      "LogMessage": "server"
+    }
+  ],
+  "LogLevelList": [
+    {
+      "LogLevel": "DEBUG",
+      "statistics":[1,1,0]
+    },
+    {
+      "LogLevel": "INFO",
+      "statistics":[1,0,0]
+    },
+    {
+      "LogLevel": "WARN",
+      "statistics":[1,0,0]
+    },
+    {
+      "LogLevel": "ERROR",
+      "statistics":[0,1,0]
+    },
+    {
+      "LogLevel": "FATAL",
+      "statistics":[0,0,1]
+    }
+  ],
+  "statistics": [
+    {
+      "LogLevel": "Wed Jun 07 2017",
+      "statistics":[1,1,1,0,0]
+    },
+    {
+      "date": "Wed Jun 08 2017",
+      "statistics":[0,1,0,1,0]
+    },
+    {
+      "date": "Wed Jun 09 2017",
+      "statistics":[0,0,0,0,1]
+    }
+  ],
+  "newData":[],
+  "selected":"ALL"
+}
